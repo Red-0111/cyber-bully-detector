@@ -6,7 +6,7 @@ Another issue that we face is the misuse of language diversity. Natives would of
 
 "Cyber-bully-detector" is an extension or a plugin which intends to scan through the text and highlight any such remarks on the web. 
 
-##Tech Stacks to be used
+## Tech Stacks to be used
 
 As of now, the project is still in its planning stage but we have thought about the following as the probable path:
 
