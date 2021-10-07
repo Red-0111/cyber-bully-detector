@@ -16,6 +16,8 @@ A **RestAPI** as a pathway for exchange of data;
 
 A **PyTorch** model to classify the text into derrogatory or otherwise;
 
+The **NLTK** library for sentiment analysis. 
+
 While we are focusing on the implementation in English language for now, we intend to expand to several other languages as well.
 
 ## Let's get together and make the world a better place!!
